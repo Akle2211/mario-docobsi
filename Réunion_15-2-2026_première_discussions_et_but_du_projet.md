@@ -11,6 +11,8 @@ Nous avons choisis un environnement de travail précis avec des règles imposée
 - Language: **GDScript** (avec le pattern 'ECS')
 - Documentation: **Obsidian** (avec le plugin Git)
 
+La documentation se fera en français/anglais, mais le code strictement en anglais.
+
 # Premier projet
 Notre premier projet sera un travail individuel à faire pour le 15 mars 2026. 
 Il consiste en un jeux de plateforme simple du style *Super Mario Bros*. Nous n'avons pas besoin de partager un GitHub du code jeux immédiatement, mais plutôt de partager la documentation et recherches que l'on feras sur GDScript et Godot :)
@@ -25,7 +27,7 @@ Nous avons tous un projet qui nous tient à cœur, qui nous motivent à faire de
 - **Luca**: Jeux d'automations/crafting, monde bac-à-sable généré procéduralement qui laisse au joueur le but du jeu. *Minecraft, Factorio, Terraria*
 
 # Quelques pistes pour commencer
-Pour se lancer, il faudra suivre un ou deux tutorielspour comprendre l'environnement Godot. Brackeys a fait une bonne vidéo de référence: [Godot Beginner Tutorial]([#  Godot Beginner Tutorial](https://www.youtube.com/watch?v=LOhfqjmasi0&list=PLPV2KyIb3jR7ecat0FBEMv2EZgsDg6Wcv&index=6))
+Pour se lancer, il faudra suivre un ou deux tutoriels pour comprendre l'environnement Godot. Brackeys a fait une bonne vidéo de référence: [Godot Beginner Tutorial]([#  Godot Beginner Tutorial](https://www.youtube.com/watch?v=LOhfqjmasi0&list=PLPV2KyIb3jR7ecat0FBEMv2EZgsDg6Wcv&index=6))
 
 
 ![[Fa-Brique.jpg]]
