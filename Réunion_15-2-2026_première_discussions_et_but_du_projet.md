@@ -26,3 +26,6 @@ Nous avons tous un projet qui nous tient à cœur, qui nous motivent à faire de
 
 # Quelques pistes pour commencer
 Pour se lancer, il faudra suivre un ou deux tutorielspour comprendre l'environnement Godot. Brackeys a fait une bonne vidéo de référence: [Godot Beginner Tutorial]([#  Godot Beginner Tutorial](https://www.youtube.com/watch?v=LOhfqjmasi0&list=PLPV2KyIb3jR7ecat0FBEMv2EZgsDg6Wcv&index=6))
+
+
+![[Fa-Brique.jpg]]
